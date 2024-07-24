@@ -7,9 +7,9 @@ When you access a GitHub repository, it displays all the projects within that re
 - Handle errors gracefully, including cases where the username is invalid or repositories cannot be fetched.
 
 # Tech Stack
-HTML
-CSS
-JavaScript
+> HTML
+> CSS
+> JavaScript
 
 # Output
 ![image](https://github.com/user-attachments/assets/bbe13773-41f0-4653-b79b-b86eed469377)
